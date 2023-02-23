@@ -1,0 +1,62 @@
+#logo{
+    width:200px;
+    height:auto;
+}
+
+h2{
+text-align:center;
+
+}
+
+#top-bar{
+    margin-left: 380px;
+    font-size: 22px;
+}
+
+.pic-label{
+    position: relative;
+    bottom: 64px;
+    background-color:#2fc1d4;
+    color:white;
+    width:150px;
+    height:auto;
+    text-align: center;
+    font-size: 24px;
+    border-radius:15px;
+    left: 75px;
+    top: -80px;
+
+}
+
+.pic-label2{
+    position: relative;
+    bottom: 64px;
+    background-color:#2fc1d4;
+    color:white;
+    width:200px;
+    height:auto;
+    text-align: center;
+    font-size: 24px;
+    border-radius:15px;
+    left: 50px;
+    top: -80px;
+
+}
+
+footer{
+    background-color:#f5f3e9;
+    color: #231f20;
+    align-content: center;
+}
+
+#icons{
+    font-size: 30px;
+}
+
+#icons2{
+    font-size: 20px;
+    margin-left: 220px;
+    position: absolute;
+
+}
+
